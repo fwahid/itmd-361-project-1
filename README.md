@@ -1,1 +1,1 @@
-# itmd-361-project-1
+# README.md for Project 1
